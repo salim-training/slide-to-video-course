@@ -1,0 +1,533 @@
+WEBVTT
+
+0
+00:00:10.180 --> 00:00:12.899
+I want to show you how I can build
+
+1
+00:00:13.260 --> 00:00:15.170
+slide decks using Cloud.
+
+2
+00:00:15.420 --> 00:00:18.139
+We'll also use Gemini as part of the process
+
+3
+00:00:18.579 --> 00:00:23.639
+to be able to create a short video tutorial that you can add to your e-learning.
+
+4
+00:00:24.100 --> 00:00:24.170
+So,
+
+5
+00:00:24.180 --> 00:00:28.000
+I'm going to add in my query here and I will share the query
+
+6
+00:00:28.500 --> 00:00:28.629
+uh
+
+7
+00:00:28.899 --> 00:00:29.100
+later,
+
+8
+00:00:29.180 --> 00:00:30.280
+but you can see here,
+
+9
+00:00:30.500 --> 00:00:31.200
+I've got
+
+10
+00:00:32.020 --> 00:00:33.250
+all the basic parts of the query.
+
+11
+00:00:33.299 --> 00:00:34.459
+I'm an instructional designer.
+
+12
+00:00:34.540 --> 00:00:36.279
+I need you to create 3 slides
+
+13
+00:00:36.500 --> 00:00:39.619
+that explain how an API sends a request and gets a response for data.
+
+14
+00:00:40.310 --> 00:00:42.290
+And I'm telling it the color scheme to use,
+
+15
+00:00:42.400 --> 00:00:42.790
+tea,
+
+16
+00:00:42.840 --> 00:00:43.849
+white and black.
+
+17
+00:00:44.040 --> 00:00:45.740
+And then I've got the title slide,
+
+18
+00:00:46.159 --> 00:00:46.700
+and then
+
+19
+00:00:46.880 --> 00:00:49.740
+I'm telling them what to do on each one of the slides.
+
+20
+00:00:50.240 --> 00:00:50.360
+So,
+
+21
+00:00:50.439 --> 00:00:52.139
+go ahead and we'll submit that request.
+
+22
+00:01:02.389 --> 00:01:03.500
+And now you can see,
+
+23
+00:01:03.740 --> 00:01:05.540
+the slide deck has been rendered.
+
+24
+00:01:06.269 --> 00:01:07.790
+With those requirements.
+
+25
+00:01:09.120 --> 00:01:10.519
+And on the top right,
+
+26
+00:01:10.599 --> 00:01:12.260
+I can download this
+
+27
+00:01:12.400 --> 00:01:13.489
+as a presentation.
+
+28
+00:01:13.839 --> 00:01:16.580
+I'm going to move this into Drive.
+
+29
+00:01:17.900 --> 00:01:20.010
+Now that we're in Google Slides,
+
+30
+00:01:20.419 --> 00:01:23.480
+we're going to transform this presentation
+
+31
+00:01:23.940 --> 00:01:25.000
+into a video.
+
+32
+00:01:25.099 --> 00:01:28.099
+So click on the transform button on the right-hand side.
+
+33
+00:01:29.839 --> 00:01:31.099
+So turned into a video.
+
+34
+00:01:34.150 --> 00:01:37.489
+It's asking me which slides to select,
+
+35
+00:01:37.510 --> 00:01:39.470
+so you can make a decision there.
+
+36
+00:01:39.830 --> 00:01:40.470
+And additionally,
+
+37
+00:01:40.510 --> 00:01:43.269
+you can decide whether or not to put the music or not.
+
+38
+00:01:43.330 --> 00:01:43.970
+And,
+
+39
+00:01:44.510 --> 00:01:44.980
+uh,
+
+40
+00:01:45.110 --> 00:01:46.750
+it is not a hard choice right now.
+
+41
+00:01:46.790 --> 00:01:49.809
+I'm going to leave that because you can edit that later.
+
+42
+00:01:50.389 --> 00:01:51.349
+For example,
+
+43
+00:01:51.790 --> 00:01:52.650
+if you don't like the music,
+
+44
+00:01:52.709 --> 00:01:53.589
+you can remove it.
+
+45
+00:01:53.910 --> 00:01:54.949
+Maybe you like the music,
+
+46
+00:01:54.989 --> 00:01:56.150
+but not that song.
+
+47
+00:01:56.269 --> 00:01:56.839
+You can
+
+48
+00:01:57.800 --> 00:01:58.000
+Uh,
+
+49
+00:01:58.160 --> 00:01:59.019
+change the song.
+
+50
+00:02:03.389 --> 00:02:03.510
+Now,
+
+51
+00:02:03.589 --> 00:02:07.529
+this is actually probably the most important part is to review the text.
+
+52
+00:02:08.149 --> 00:02:09.309
+Each one of the slides,
+
+53
+00:02:09.350 --> 00:02:12.089
+it has automatically created text for you.
+
+54
+00:02:12.889 --> 00:02:15.910
+And you have a choice to make a change,
+
+55
+00:02:16.720 --> 00:02:17.279
+uh,
+
+56
+00:02:17.289 --> 00:02:17.850
+on this,
+
+57
+00:02:17.889 --> 00:02:21.029
+and that's typically what I do is I update these
+
+58
+00:02:21.729 --> 00:02:22.270
+to
+
+59
+00:02:23.009 --> 00:02:25.929
+reflect what I really want because sometimes I find it's a bit too generic.
+
+60
+00:02:26.050 --> 00:02:27.559
+I just made those changes there.
+
+61
+00:02:27.929 --> 00:02:28.250
+Similarly,
+
+62
+00:02:28.330 --> 00:02:30.630
+I'd go through all the other ones and do that.
+
+63
+00:02:30.889 --> 00:02:31.449
+Additionally,
+
+64
+00:02:31.610 --> 00:02:34.630
+I can modify who is speaking.
+
+65
+00:02:35.330 --> 00:02:35.630
+So,
+
+66
+00:02:35.649 --> 00:02:38.630
+I'll go ahead and uh change this to educator.
+
+67
+00:02:39.949 --> 00:02:40.149
+Now,
+
+68
+00:02:40.350 --> 00:02:41.949
+you can also create your own voice.
+
+69
+00:02:42.110 --> 00:02:43.610
+There is a function to
+
+70
+00:02:43.809 --> 00:02:46.610
+have your own voiceover and that works as well.
+
+71
+00:02:46.910 --> 00:02:48.539
+I'm just going to use the automated
+
+72
+00:02:48.539 --> 00:02:51.169
+feature just so you understand what's available,
+
+73
+00:02:51.550 --> 00:02:53.169
+and I'm going to create the draft video.
+
+74
+00:02:55.080 --> 00:02:55.240
+So,
+
+75
+00:02:55.250 --> 00:02:56.410
+now the draft video is created.
+
+76
+00:02:56.470 --> 00:02:57.789
+You can click on play.
+
+77
+00:02:57.910 --> 00:02:57.990
+Now,
+
+78
+00:02:58.020 --> 00:02:59.669
+I'm just going to
+
+79
+00:03:00.190 --> 00:03:01.580
+go to the bottom here.
+
+80
+00:03:02.029 --> 00:03:02.649
+There
+
+81
+00:03:02.789 --> 00:03:04.029
+is this music,
+
+82
+00:03:04.110 --> 00:03:05.960
+corporate technology innovation,
+
+83
+00:03:06.600 --> 00:03:06.610
+right.
+
+84
+00:03:07.179 --> 00:03:07.389
+OK.
+
+85
+00:03:07.509 --> 00:03:08.529
+So that can be
+
+86
+00:03:08.690 --> 00:03:09.339
+deleted.
+
+87
+00:03:09.669 --> 00:03:10.410
+That can be
+
+88
+00:03:11.029 --> 00:03:12.690
+changed to a different song.
+
+89
+00:03:13.190 --> 00:03:14.070
+You can edit that.
+
+90
+00:03:14.309 --> 00:03:14.809
+So,
+
+91
+00:03:14.889 --> 00:03:16.179
+you have full control over that.
+
+92
+00:03:16.460 --> 00:03:18.250
+On the right-hand side here,
+
+93
+00:03:18.520 --> 00:03:19.029
+uh,
+
+94
+00:03:19.229 --> 00:03:20.309
+you'll see voiceover,
+
+95
+00:03:20.410 --> 00:03:23.119
+so you can create your own voiceover if you prefer.
+
+96
+00:03:24.000 --> 00:03:24.320
+Uh,
+
+97
+00:03:24.399 --> 00:03:25.339
+on this,
+
+98
+00:03:25.479 --> 00:03:26.199
+uh,
+
+99
+00:03:26.279 --> 00:03:26.949
+in the.
+
+100
+00:03:28.369 --> 00:03:29.830
+Video functionality.
+
+101
+00:03:31.009 --> 00:03:32.860
+And we'll just go ahead and play briefly.
+
+102
+00:03:32.970 --> 00:03:34.729
+We will review how a smartphone application
+
+103
+00:03:34.729 --> 00:03:36.690
+communicates to the cloud through the API.
+
+104
+00:03:36.889 --> 00:03:39.440
+It starts when your app sends a request to the server.
+
+105
+00:03:39.610 --> 00:03:40.460
+This acts like a
+
+106
+00:03:41.169 --> 00:03:41.500
+OK.
+
+107
+00:03:41.740 --> 00:03:41.850
+So,
+
+108
+00:03:41.899 --> 00:03:42.910
+now that is completed.
+
+109
+00:03:43.020 --> 00:03:44.720
+I'm gonna show you one more thing
+
+110
+00:03:45.500 --> 00:03:46.419
+that we're going to add.
+
+111
+00:03:46.690 --> 00:03:47.220
+Typically,
+
+112
+00:03:47.380 --> 00:03:48.699
+on these training videos,
+
+113
+00:03:48.779 --> 00:03:49.839
+you have a
+
+114
+00:03:50.139 --> 00:03:52.070
+2 to 5 2nd
+
+115
+00:03:52.460 --> 00:03:56.259
+intro that's consistent across your videos for your branding.
+
+116
+00:03:56.660 --> 00:03:56.729
+So,
+
+117
+00:03:56.740 --> 00:03:58.199
+I'm gonna show you how you can use
+
+118
+00:03:59.270 --> 00:03:59.960
+Gemini
+
+119
+00:04:00.100 --> 00:04:03.000
+to build that and then insert that in here.
+
+120
+00:04:03.380 --> 00:04:04.300
+Now in Gemini,
+
+121
+00:04:04.580 --> 00:04:05.639
+so we're going to
+
+122
+00:04:06.139 --> 00:04:07.199
+create a.
+
+123
+00:04:08.500 --> 00:04:09.839
+4 2nd
+
+124
+00:04:10.380 --> 00:04:11.339
+intro.
+
+125
+00:04:12.279 --> 00:04:13.059
+Video.
+
+126
+00:04:14.050 --> 00:04:15.309
+With music
+
+127
+00:04:15.610 --> 00:04:16.350
+and
+
+128
+00:04:16.649 --> 00:04:18.209
+use the title.
+
+129
+00:04:22.839 --> 00:04:23.380
+Learn
+
+130
+00:04:25.359 --> 00:04:25.700
+With
+
+131
+00:04:28.250 --> 00:04:29.450
+APIs
+
+132
+00:04:29.579 --> 00:04:30.100
+uh in.

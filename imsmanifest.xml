@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<manifest
+  identifier="A-YvQ3J-h0WcCs16RyFmOsfb2_P5s1GiWpiFRs80"
+  version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd"
+>
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Creating Videos from Slides</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Creating Videos from Slides</title>
+        <adlcp:datafromlms>datafromlms</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      
+        <file href="scormcontent/lib/ai-scenario/entry.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/57960b97.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/841684f2.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/6237cfa3.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/312c66b0.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/5e51779a.js" />
+      
+        <file href="scormcontent/lib/ai-scenario/722e48c4.js" />
+      
+        <file href="scormcontent/lib/rise/86d03062.js" />
+      
+        <file href="scormcontent/lib/sandbox/sandbox.html" />
+      
+        <file href="scormcontent/lib/rise/b5c246db.css" />
+      
+        <file href="scormcontent/lib/sandbox/c77685df.js" />
+      
+        <file href="scormcontent/lib/sandbox/4adfab46.css" />
+      
+        <file href="scormcontent/lib/ai-scenario/f7925ede.js" />
+      
+        <file href="scormcontent/lib/learn_dist/entry.js" />
+      
+        <file href="scormcontent/lib/learn_dist/9b1f8619.js" />
+      
+        <file href="scormcontent/lib/learn_dist/cd7714c6.css" />
+      
+        <file href="scormcontent/lib/mondrian/entry.js" />
+      
+        <file href="scormcontent/lib/learn_dist/2134587e.js" />
+      
+        <file href="scormcontent/lib/mondrian/9310b7bd.js" />
+      
+        <file href="scormcontent/lib/mondrian/542cd24e.js" />
+      
+        <file href="scormcontent/lib/mondrian/4c18fab4.js" />
+      
+        <file href="scormcontent/lib/mondrian/3868877e.js" />
+      
+        <file href="scormcontent/lib/mondrian/5d56aa22.js" />
+      
+        <file href="scormcontent/lib/rise/666e850d.js" />
+      
+        <file href="scormcontent/lib/rise/d4b3a997.css" />
+      
+        <file href="scormcontent/lib/rise/b8c1ea04.js" />
+      
+        <file href="scormcontent/lib/rise/9aede266.ttf" />
+      
+        <file href="scormcontent/lib/rise/bff47411.woff" />
+      
+        <file href="scormcontent/lib/rise/130fc72f.js" />
+      
+        <file href="scormcontent/lib/rise/5c95b03c.js" />
+      
+        <file href="scormcontent/lib/rise/d227abed.js" />
+      
+        <file href="scormcontent/lib/rise/4de7a64b.js" />
+      
+        <file href="scormcontent/lib/rise/4fda90c0.js" />
+      
+        <file href="scormcontent/lib/rise/53e187e9.js" />
+      
+        <file href="scormcontent/lib/rise/14c545d1.js" />
+      
+        <file href="scormcontent/lib/rise/299f5ddb.js" />
+      
+        <file href="scormcontent/lib/rise/ebbde940.js" />
+      
+        <file href="scormcontent/lib/rise/f10a9e96.js" />
+      
+        <file href="scormcontent/lib/rise/b2fa32e8.js" />
+      
+        <file href="scormcontent/lib/rise/674a2edc.js" />
+      
+        <file href="scormcontent/lib/rise/61bd4112.js" />
+      
+        <file href="scormcontent/lib/rise/52234862.js" />
+      
+        <file href="scormcontent/lib/rise/b296c88a.js" />
+      
+        <file href="scormcontent/lib/rise/39f25c26.js" />
+      
+        <file href="scormdriver/driverOptions.js" />
+      
+        <file href="scormdriver/goodbye.html" />
+      
+        <file href="scormdriver/indexAPI.html" />
+      
+        <file href="scormcontent/index.html" />
+      
+        <file href="scormdriver/lib/dist/5306ddc2.js" />
+      
+        <file href="scormcontent/lib/dist/c7ae2a54.js" />
+      
+        <file href="scormcontent/assets/small.png" />
+      
+        <file href="scormcontent/assets/37_nature.jpg" />
+      
+        <file href="scormcontent/assets/Creating a video from slid.mp4" />
+      
+        <file href="scormcontent/assets/Create_second_intro_video_.mp4" />
+      
+        <file href="scormdriver/lms-interface.js" />
+      
+        <file href="scormcontent/assets/mountains.jpg" />
+      
+        <file href="scormcontent/assets/ai-captions-1789579544942.vtt" />
+      
+        <file href="scormcontent/assets/API_Communication For Vid.pptx" />
+      
+        <file href="scormdriver/browsersniff.js" />
+      
+        <file href="scormdriver/scormdriver.js" />
+      
+        <file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+      
+        <file href="scormcontent/lib/fonts/Lato2-Light.woff" />
+      
+        <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      
+        <file href="scormdriver/AICCComm.html" />
+      
+        <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      
+        <file href="scormcontent/assets/iphone-screen-shot.png" />
+      
+        <file href="scormdriver/blank.html" />
+      
+        <file href="scormcontent/lib/fonts/Lato2-Regular.woff" />
+      
+        <file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+      
+        <file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+      
+        <file href="scormcontent/lib/fonts/Lato2-Bold.woff" />
+      
+        <file href="scormcontent/lib/fonts/Lato2-Italic.woff" />
+      
+        <file href="scormdriver/auto-scripts/CourseExit.js" />
+      
+        <file href="scormcontent/lib/fonts/Lato2-Black.woff" />
+      
+        <file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+      
+        <file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+      
+        <file href="scormcontent/assets/Creating a video from slid.jpg" />
+      
+        <file href="scormcontent/assets/Create_second_intro_video_.jpg" />
+      
+        <file href="scormcontent/runtime-data.js" />
+      
+    </resource>
+  </resources>
+</manifest>
